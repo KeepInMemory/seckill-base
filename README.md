@@ -2,7 +2,7 @@
 
 项目是一个基于SpringBoot+MyBatis实现的基本的电商秒杀系统
 
-![1](img/1.png)
+![1](https://github.com/KeepInMemory/seckill-base/blob/master/img/1.png)
 
 使用了一个前后端分离的设计方式，前端UI使用了Html、CSS、jQuery以及Mytronic前端框架完成了用户注册、登录、商品展示、下单交易、秒杀倒计时等基本前端功能
 
